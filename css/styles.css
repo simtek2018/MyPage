@@ -1,0 +1,22 @@
+/* ---- Tag Selectors -----*/
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    text-align: center;
+    color: #61b15a;
+}
+
+h3 {
+    text-align: center;
+    color: #61b15a;  
+}
+
+img {
+    background-color: #61b15a;
+}
+
+img:hover {
+    background-color: #fff76a;
+}
